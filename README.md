@@ -26,7 +26,7 @@ The stock baud rates are:
 * 57600
 * 115200
 
-The most used is 115200.
+The most used is 115200 but I recommend using 9600.
 
 #### Change the Baud Rate
 
