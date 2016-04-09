@@ -14,7 +14,7 @@ A simple bridge sketch made to send AT commands to the **ESP8266** in an easy wa
 
 Use the following diagram to connect the ESP8266 to your Arduino!
 
-![Wiring Diagram](http://i.imgur.com/yRaq3dK.png)
+![Wiring Diagram](https://raw.githubusercontent.com/eliseomartelli/ESP8266_Bridge/master/schematic.png)
 
 ## Baud Rates
 
